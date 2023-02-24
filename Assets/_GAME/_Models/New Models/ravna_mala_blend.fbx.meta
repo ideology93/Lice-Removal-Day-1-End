@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: fa91e843d818edc49859f145533331bd
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 6701573805076712017
+    second: NurbsCurve.041|EmptyAction
+  - first:
+      74: 5550840523442223380
+    second: NurbsCurve.041|EmptyAction.001
+  - first:
+      74: -4258077141914307990
+    second: NurbsCurve.041|EmptyAction.002
+  - first:
+      74: 7887614785837835539
+    second: NurbsCurve.041|Front_parts4.001Action
+  - first:
+      74: -2320026752526059591
+    second: NurbsCurve.041|NurbsCurve.001Action
+  - first:
+      74: -1544579994896507545
+    second: NurbsCurve.041|NurbsCurveAction.001
+  - first:
+      74: -4181482524419947828
+    second: NurbsCurve.042|EmptyAction
+  - first:
+      74: -7662434108949148492
+    second: NurbsCurve.042|EmptyAction.001
+  - first:
+      74: 6510122066788683448
+    second: NurbsCurve.042|EmptyAction.002
+  - first:
+      74: 4190013418391758124
+    second: NurbsCurve.042|Front_parts4.001Action
+  - first:
+      74: -7920023799685305907
+    second: NurbsCurve.042|NurbsCurve.001Action
+  - first:
+      74: 3808159414705151671
+    second: NurbsCurve.042|NurbsCurve.002Action.001
+  - first:
+      74: 7717353114089445672
+    second: NurbsCurve.043|EmptyAction
+  - first:
+      74: -3404515888078589303
+    second: NurbsCurve.043|EmptyAction.001
+  - first:
+      74: -6260994654973510904
+    second: NurbsCurve.043|EmptyAction.002
+  - first:
+      74: -7879886501100757237
+    second: NurbsCurve.043|Front_parts4.001Action
+  - first:
+      74: 8418736613657712915
+    second: NurbsCurve.043|NurbsCurve.001Action
+  - first:
+      74: 8264026482167463264
+    second: NurbsCurve.043|NurbsCurve.004Action.001
+  - first:
+      74: 6954260702321085374
+    second: NurbsCurve.044|EmptyAction
+  - first:
+      74: 7831878027811159160
+    second: NurbsCurve.044|EmptyAction.001
+  - first:
+      74: -6406900462205880672
+    second: NurbsCurve.044|EmptyAction.002
+  - first:
+      74: -3510800067647007499
+    second: NurbsCurve.044|Front_parts4.001Action
+  - first:
+      74: -5047153602663107503
+    second: NurbsCurve.044|NurbsCurve.001Action
+  - first:
+      74: -1613340908447333367
+    second: NurbsCurve.044|NurbsCurve.005Action.001
+  - first:
+      74: -436736766231610329
+    second: NurbsCurve.045|EmptyAction
+  - first:
+      74: -6832329669469614016
+    second: NurbsCurve.045|EmptyAction.001
+  - first:
+      74: 4734979814274399980
+    second: NurbsCurve.045|EmptyAction.002
+  - first:
+      74: -6083950647499737031
+    second: NurbsCurve.045|Front_parts4.001Action
+  - first:
+      74: 4295176738322268795
+    second: NurbsCurve.045|NurbsCurve.001Action
+  - first:
+      74: 4115876964216724935
+    second: NurbsCurve.045|NurbsCurve.003Action.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

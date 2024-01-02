@@ -40,7 +40,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
+<<<<<<< Updated upstream
         m_Texture: {fileID: 2800000, guid: b65219a3d98adba4fbdc5af5fa98a8e1, type: 3}
+=======
+        m_Texture: {fileID: 2800000, guid: 596c94095d52a3f41850227b6496d250, type: 3}
+>>>>>>> Stashed changes
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -64,7 +68,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
+<<<<<<< Updated upstream
         m_Texture: {fileID: 2800000, guid: b65219a3d98adba4fbdc5af5fa98a8e1, type: 3}
+=======
+        m_Texture: {fileID: 2800000, guid: eeefb7f6db64f4849b1121689593ba3d, type: 3}
+>>>>>>> Stashed changes
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -124,8 +132,13 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 0
     m_Colors:
+<<<<<<< Updated upstream
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 0.7019608}
+    - _Color: {r: 1, g: 1, b: 1, a: 0.7019608}
+>>>>>>> Stashed changes
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []

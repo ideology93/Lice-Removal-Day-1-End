@@ -22,7 +22,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
+<<<<<<< Updated upstream:Assets/_GAME/_Materials/Hair.mat
         m_Texture: {fileID: 2800000, guid: 4934523e79bea3b4b85a3000ec9dc211, type: 3}
+=======
+        m_Texture: {fileID: 2800000, guid: 77a709797d94d3845877538ec0c6964c, type: 3}
+>>>>>>> Stashed changes:Assets/_GAME/_Materials/HairMaterials/Hair.mat
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -46,7 +50,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
+<<<<<<< Updated upstream:Assets/_GAME/_Materials/Hair.mat
         m_Texture: {fileID: 2800000, guid: 4934523e79bea3b4b85a3000ec9dc211, type: 3}
+=======
+        m_Texture: {fileID: 2800000, guid: 44cadf5faac88124fa6fb880f65d8bc9, type: 3}
+>>>>>>> Stashed changes:Assets/_GAME/_Materials/HairMaterials/Hair.mat
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:

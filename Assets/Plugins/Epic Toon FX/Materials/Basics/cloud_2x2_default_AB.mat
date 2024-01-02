@@ -31,7 +31,11 @@ Material:
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
+<<<<<<< Updated upstream
   m_CustomRenderQueue: -1
+=======
+  m_CustomRenderQueue: 3030
+>>>>>>> Stashed changes
   stringTagMap:
     RenderType: Opaque
   disabledShaderPasses:
@@ -78,7 +82,7 @@ Material:
     - _InvFade: 1
     - _LightingEnabled: 0
     - _Mode: 2
-    - _QueueOffset: 0
+    - _QueueOffset: 30
     - _SoftParticlesEnabled: 1
     - _SoftParticlesFarFadeDistance: 0.25
     - _SoftParticlesNearFadeDistance: 0
